@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+
+</head>
+<body>
+    <!--Başlık 1-->
+    <h1>Emre Ayvaz</h1>
+    <!--Başlık 1 biter-->
+
+
+    <!--Başlık 2-->
+    <h3>Hakkımda</h3>
+    <!--Başlık 2 biter-->
+
+
+    <!--Paragraf-->
+    <p>Merhaba Ben Emre Konyada yaşıyorum. Bilgisayar Oyunları oyanamayı severim. Kodluyoruz'un bu eğitim serisi sayesinde <br>
+    harika şeyler öğrendimve öğrenmeye devam ediyorum. </p>
+    <!--Paragraf biter-->
+
+    <!--Başlık 3-->
+    <h1>Sevdiğim Oyunlar</h1>
+    <!--Başlık 3 biter-->
+
+
+    <h3></a>Valorant:Fps Oyunu</h3>
+    <a href="https://playvalorant.com/tr-tr/" target="_blank">Valorant</a>
+    <h3>Cs2(eski Adı ile CSGO):Fps Oyunu</h3>
+    <a href="https://www.counter-strike.net/cs2" target="_blank">Cs2</a>
+    <br> <br>
+    <img height="300" width="600" src="img/Ep7_Act_Overview_Art_3440x1020_v3.jpg">
+    <h6>Valorant Resmi</h6>
+    
+    
+</body>
+</html>
